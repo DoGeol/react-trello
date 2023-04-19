@@ -5,3 +5,5 @@
 - prettier
 - eslint
 - typescript
+- normalize.css
+- Font : pretendard
